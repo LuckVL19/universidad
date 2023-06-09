@@ -5,3 +5,4 @@ var
  n2: string;
 
 begin
+of
